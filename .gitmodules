@@ -1,0 +1,6 @@
+[submodule "calvin-base"]
+	path = calvin-base
+	url = https://github.com/pskarin/calvin-base
+[submodule "pyqpgen"]
+	path = pyqpgen
+	url = https://github.com/pskarin/pyqpgen
