@@ -4,3 +4,7 @@
 [submodule "pyqpgen"]
 	path = pyqpgen
 	url = https://github.com/pskarin/pyqpgen
+[submodule "calvincontrol"]
+	path = calvincontrol
+	url = https://github.com/pskarin/calvincontrol.git
+	branch = CotC
