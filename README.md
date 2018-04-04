@@ -6,7 +6,7 @@ The submodules are:
 
 * calvin-base: A fork of Calvin which adds Syslog support and LTTng trace points
 * PyQPgen: Python wrapper around QPgen which generates an MPC optimisation routine
-* calvin-control: A library of Calvin Actors and Calvin Scripts
+* calvincontrol: A library of Calvin Actors and Calvin Scripts
 
 
 # Requirements
